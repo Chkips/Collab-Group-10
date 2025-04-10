@@ -1,1 +1,1 @@
-"Voici la premiŠre phrase de notre projet collaboratif." 
+"Voici la deuxième phrase de notre projet collaboratif." 
