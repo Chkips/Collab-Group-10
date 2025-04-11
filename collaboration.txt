@@ -1,1 +1,2 @@
 "Voici la premiŠre phrase de notre projet collaboratif." 
+Je suis Hanichou, voici ma première contribution au fichier.
