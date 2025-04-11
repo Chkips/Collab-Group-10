@@ -1,2 +1,3 @@
-"Voici la premiŠre phrase de notre projet collaboratif." 
+"Voici la première phrase de notre projet collaboratif." 
 Je suis Taki, voici ma première contribution.
+Je suis Taki, voici ma deuxième et dernière contribution au fichier.
