@@ -1,3 +1,4 @@
-"Voici la premiäre phrase de notre projet collaboratif." 
-Je suis Hanichou, voici ma premiËre contribution au fichier.
-je suis hanichou, voici ma deuxiËme et derniËre contribution au fichier.
+"Voici la premi√®re phrase de notre projet collaboratif." 
+Je suis Hanichou, voici ma premi√®re contribution au fichier.
+Je suis Taki, voici ma premi√®re contribution.
+je suis hanichou, voici ma deuxi√®me et derni√®re contribution au fichier.
